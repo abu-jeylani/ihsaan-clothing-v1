@@ -1,0 +1,51 @@
+
+
+.sign-in-container{
+  margin: 10%auto;
+  width: 380px;
+
+  h6 {
+    margin: 10px 0;
+    font-size: small;
+    text-transform: uppercase;
+  }
+
+  .btn {
+    font-size: small;
+    text-transform: uppercase;
+    margin: 0 5px;
+
+  }
+
+  .button-container{
+    margin: auto;
+  
+  }
+
+  input {
+    font-size: small;
+  }
+}
+
+.form-container {
+  margin: 10%;
+  font-size: small;
+}
+
+#sign-up-button {
+  margin-top: 1%;
+}
+
+#sign-up-container {
+  margin-top: 5%;
+  margin-left: 2%;
+  font-size: x-small;
+
+   #sign-up-button {
+    text-decoration: underline;
+  }
+   #sign-up-button:hover {
+    cursor: pointer;
+    color: seagreen
+  }
+}

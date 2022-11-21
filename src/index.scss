@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  box-sizing: 0;
+  padding: 20px 40px;
+  font-family: 'Roboto Mono', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: small;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.card-images{
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center 45%;
+}
+
+.g-4, .card-row{
+margin-left: 5%;
+}

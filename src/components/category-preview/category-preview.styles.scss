@@ -1,0 +1,29 @@
+.category-preview-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  flex: 25%;
+  margin: 3% 0;
+}
+
+
+#title{
+  font-size: medium;
+  font-weight: bolder;
+  margin: 0 42%;
+
+}
+
+.see-all-link {
+  font-size: small;
+  align-self: center;
+  justify-self: center;
+  margin: 10px;
+  transition: .4s;
+  
+}
+
+.see-all-link:hover {
+font-weight: bolder;
+transform: translate(8px,0);
+}

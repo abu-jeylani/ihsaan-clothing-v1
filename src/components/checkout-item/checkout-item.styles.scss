@@ -1,0 +1,32 @@
+.arrow {
+    cursor: pointer;
+}
+
+
+td {
+    max-height:123px;
+    text-align: center;
+    background-blend-mode: difference;
+}
+.remove {
+    cursor: pointer;
+   text-align: center;
+}
+
+
+
+ .imageContainer img {
+    max-height: 200px;
+    max-width: 40%;
+    object-fit:  cover;
+
+}
+
+// .imageContainer img{
+//     opacity: .90;
+//     max-height: 30%;
+//     max-width: 40%;
+//     position:static;
+//     background-blend-mode: screen;
+
+// }
